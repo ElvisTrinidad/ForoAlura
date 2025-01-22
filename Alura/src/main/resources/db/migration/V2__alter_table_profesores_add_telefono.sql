@@ -1,0 +1,1 @@
+alter table profesores add telefono varchar(15) not null;
